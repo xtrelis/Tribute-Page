@@ -1,0 +1,13 @@
+body {
+  margin-top: 60px;
+}
+span {
+  font-weight: bold;
+}
+.image-caption {
+  background-color: white;
+}
+img {
+  width: 100%;
+  height: 1000px;
+}
